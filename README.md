@@ -1,0 +1,1 @@
+This simple project aims to extract information about the type of error from the Box<dyn Error>. Different types of errors are trigggered at the endpoint /error and the target is to distinguish the error type and sent a short custom error message in response.
